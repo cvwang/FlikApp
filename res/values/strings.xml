@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flik</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="welcome">Welcome to the Flik Menu App!</string>
+    <string name="text1">Here is today\'s menu. Please take a moment to rate any item that you had today.</string>
+
+</resources>
